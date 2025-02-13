@@ -8,3 +8,5 @@ def createStsClient(String regionName) {
                     .region(region)
                     .build()
 }
+
+return this
