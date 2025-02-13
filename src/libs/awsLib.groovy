@@ -1,3 +1,4 @@
+package libs
 import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.sts.StsClient
 
