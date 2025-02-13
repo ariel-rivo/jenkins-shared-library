@@ -1,5 +1,5 @@
 import libs.awsLib
 
-def awsUtils() {
-    return new awsLib()
+def call() {
+    return new AwsLib()
 }
